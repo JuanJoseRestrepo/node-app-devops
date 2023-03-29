@@ -20,5 +20,5 @@ jobs:
       uses: docker/build-push-action@v4.0.0
       with:
         push: true
-        tags: JuanJoseRestrepo/react-app:latest
+        tags: JuanJoseRestrepo/example-react-docker-nodejs:latest
 
